@@ -1,12 +1,12 @@
 {
-  "name": "File Sharing Stinky",
+  "name": "File Sharing Prime",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Stinkyrz/Stinky-Filesharing",
+  "repository": "https://github.com/Tonic990/FileSharing",
   "logo": "https://telegra.ph/file/2c5ec091fb6e96628e610.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -15,11 +15,11 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "Callme_stinky"
+      "value": "Bukan_guudlooking"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "1435206452"
+      "value": "1416529201"
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
@@ -43,7 +43,7 @@
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
-      "value": "<b>Hello {first}\n\nJika mau repo file sharing seperti ini bisa cek disini @Stinkyrz owner repo @Callme_stinky.</b>"
+      "value": "<b>Hello {first}\n\nJika mau repo file sharing seperti ini bisa cek disini @PrimeSupportGroup owner repo @Bukan_guudlooking.</b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
@@ -51,7 +51,7 @@
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "Stinkyrz",
+      "value": "PrimeSupportChannel",
       "required": false
     },
     "GROUP":{
