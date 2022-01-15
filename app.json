@@ -1,13 +1,13 @@
 {
-  "name": "File Sharing Prime",
+  "name": "File Sharing Destoyer",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Tonic990/FileSharing",
-  "logo": "https://telegra.ph/file/2c5ec091fb6e96628e610.jpg",
+  "repository": "https://github.com/Destra1112/bacot2",
+  "logo": "https://telegra.ph/file/90135fb7b5bc78acb8bf6.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -43,7 +43,7 @@
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
-      "value": "<b>Hello {first}\n\nJika mau repo file sharing seperti ini bisa cek disini @PrimeSupportGroup owner repo @Bukan_guudlooking.</b>"
+      "value": "<b>Hello {first}\n\nJika mau repo file sharing seperti ini bisa ke owner repo @DessxTrash.</b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
