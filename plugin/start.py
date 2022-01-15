@@ -117,6 +117,7 @@ async def start_command(client: Client, message: Message):
             [
                 InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟 1", url=client.invitelink),
                 InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟 2", url=client.invitelink2),
+                InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟 3", url=client.invitelink3),
             ],
             [
                 InlineKeyboardButton("• ᴛᴜᴛᴜᴘ •", callback_data="close"),
@@ -146,6 +147,7 @@ async def not_joined(client: Client, message: Message):
         [
             InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟 1", url=client.invitelink),
             InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟 2", url=client.invitelink2),
+            InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟 3", url=client.invitelink3),
         ],
     ]
     try:
@@ -242,7 +244,7 @@ async def ping_pong(client, m: Message):
     m_reply = await m.reply_text("Pinging...")
     delta_ping = time() - start
     await m_reply.edit_text(
-        "<b>PONG!!</b>🏓 \n"
+        "<b>PONG!!</b>🥵 \n"
         f"<b>• Pinger -</b> <code>{delta_ping * 1000:.3f}ms</code>\n"
         f"<b>• Uptime -</b> <code>{uptime}</code>\n"
     )
