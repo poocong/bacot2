@@ -21,7 +21,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=VG9uaWM5OTAvRmlsZVNoYXJpbmcgTWFzdGVy)</br>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Destra1112/bacot2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-indigo?style=flat&logo=heroku" width="250" height="38.60" /></a></p>
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
