@@ -1,6 +1,5 @@
 # (©)Codexbot
-# Recode by @Callme_stinky
-# t.me/Stinkysupport & t.me/Stinkyrz
+# Recode by t.me/Dessxtrash
 
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
 
